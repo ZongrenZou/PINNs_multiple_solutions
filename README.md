@@ -1,1 +1,1 @@
-# PINNs_multiple_solutions
+This repository will contain source code for the paper: [Learning and discovering multiple solutions using physics-informed neural networks with random initialization and deep ensemble](https://arxiv.org/abs/2503.06320).
